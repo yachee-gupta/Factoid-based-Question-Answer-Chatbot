@@ -234,6 +234,17 @@ Sample Questions
 
 > A USB connection is based on what?
 
+#### Delhi history (dataset/Delhi_history.txt)
+Sample Questions
+> When was the Parliament of India building in New Delhi attacked by armed militants?
+
+> When Ahmad Shah Durrani, sacked Delhi?
+
+> When did Aurangzeb died?
+
+> Who defeated Prithviraj Chauhan?
+
+> Who was the only woman to rule over Delhi?
 
 ## REFERENCE
 
