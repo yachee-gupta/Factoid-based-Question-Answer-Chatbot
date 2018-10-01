@@ -234,6 +234,17 @@ Sample Questions
 
 > A USB connection is based on what?
 
+#### Delhi history (dataset/Red_Fort.txt)
+Sample Questions
+> When was Red Fort constructed?
+
+> Where is Red Fort?
+
+> When did Aurangzeb died?
+
+> When was the Red Fort Archaeological Museum moved from the drum house to the Mumtaz Mahal?
+
+> Who hoists the national flag at the Red Fort?
 
 ## REFERENCE
 
